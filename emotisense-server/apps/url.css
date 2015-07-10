@@ -1,0 +1,20 @@
+#container {
+position:relative;
+}
+
+#img2 {
+position: absolute;
+left: 290px;
+top: 97px;
+height: 130px;
+}
+
+#text1 {
+position: absolute;
+left: 50px;
+top: 90px;
+font-size: 32px;
+color: #FFA500;
+width: 200px;
+}
+

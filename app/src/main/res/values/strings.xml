@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Emotisense</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="get_started">To get started, log in using Facebook</string>
+    <string name="settings">Settings</string>
+    <string name="app_id">1566794853579903</string>
+    <string name="can_post_on_wall" />
+    <string name="post_on_wall_title" />
+    <string name="post_on_wall" />
+    <string name="yes" />
+    <string name="app_desc" />
+    <string name="app_action" />
+    <string name="no" />
+
+    <string name="logo_color">#AA66CC</string>
+
+</resources>

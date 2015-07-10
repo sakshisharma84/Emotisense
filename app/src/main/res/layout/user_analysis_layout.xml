@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fb="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="10">
+
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/emotisenseTitle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="32sp"
+        android:gravity="center"
+        android:includeFontPadding="false"
+        android:textColor="@color/background_material_light"
+        android:background="@color/logo_color"
+        android:text="Emotisense"
+        android:typeface="serif"
+        android:textStyle="italic"
+        android:layout_weight="0.25"
+        />
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_weight="5.75">
+
+            <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="40sp"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:includeFontPadding="false"
+                android:layout_weight="2"
+                />
+
+            <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/imageView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:includeFontPadding="false"
+                android:layout_weight="2"/>
+
+        </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_weight="0.50"
+        android:gravity="center"
+        android:layout_gravity="center"
+        >
+
+        <!-- <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Share"
+            android:id="@+id/shareOnFBButton"
+            android:clickable="true"
+            android:paddingBottom="5dp"
+            android:src="@drawable/fbshare"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:background="#0099CC"/> -->
+
+        <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/shareOnFBButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:paddingBottom="5dp"
+            android:src="@drawable/fbshare"
+            android:gravity="center"
+            android:layout_gravity="center"/>
+    </LinearLayout>
+
+    <ListView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:layout_weight="3"
+        android:layout_gravity="center"
+        />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_weight="0.50"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+        >
+
+        <!--<Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="LogOut"
+            android:id="@+id/LogOutButton" />-->
+
+        <!--<com.facebook.widget.LoginButton
+            android:id="@+id/activity_login_facebook_btn_login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center_horizontal"
+            fb:login_text="Login with Facebook"
+            fb:logout_text="Logout"
+            android:includeFontPadding="false"/>-->
+    </LinearLayout>
+
+
+        <!--<Button
+            android:id="@+id/button"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="Report Image"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:includeFontPadding="false"
+            />
+        <com.facebook.widget.LoginButton
+            android:id="@+id/activity_login_facebook_btn_login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center_horizontal"
+            fb:login_text="Login with Facebook"
+            fb:logout_text="Logout"
+            android:includeFontPadding="false"/>-->
+</LinearLayout>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Pragya/Documents/6675-AIC/emotisense-workspace/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/Pragya/Documents/6675-AIC/emotisense-workspace/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-11cd517da8742e026e09abe06735c5c007e75bc1.jar" />
+    </item>
+    <item
+        jar="/Users/Pragya/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/Pragya/Documents/6675-AIC/emotisense-workspace/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-ff6c3247f7c9108a099cc1789d2710d31a6eef46.jar" />
+    </item>
+    <item
+        jar="/Users/Pragya/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.2/91c20388c9a45f62b5ed8fe0502bb76ff6251fc7/bolts-android-1.1.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="91c20388c9a45f62b5ed8fe0502bb76ff6251fc7">
+        <dex dex="/Users/Pragya/Documents/6675-AIC/emotisense-workspace/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.2-006ed9593fdf73ca98339c7ce59b7e845f8191e7.jar" />
+    </item>
+    <item
+        jar="/Users/Pragya/Documents/6675-AIC/emotisense-workspace/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/Pragya/Documents/6675-AIC/emotisense-workspace/app/build/intermediates/pre-dexed/debug/classes-965c95a724192e6a200ce6e332c0c6596e900c58.jar" />
+    </item>
+    <item
+        jar="/Users/Pragya/Documents/6675-AIC/emotisense-final-gatech/emotisense-final/app/build/intermediates/exploded-aar/com.jjoe64/graphview/4.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ae24ad61a573cd1faf8261f5ec6d8f0cb58ddaad">
+        <dex dex="/Users/Pragya/Documents/6675-AIC/emotisense-final-gatech/emotisense-final/app/build/intermediates/pre-dexed/debug/classes-8bfba63686bdf8950c3a9b40a002a9848e4c94db.jar" />
+    </item>
+    <item
+        jar="/Users/Pragya/Documents/6675-AIC/emotisense-final-gatech/emotisense-final/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/Pragya/Documents/6675-AIC/emotisense-final-gatech/emotisense-final/app/build/intermediates/pre-dexed/debug/classes-c4647df988922e3ba5680f9053e3f21f4256f1bc.jar" />
+    </item>
+    <item
+        jar="/Users/Pragya/Documents/6675-AIC/emotisense-workspace/app/libs/httpclientandroidlib.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d884b9ed1234ce24ae00913167760836bf089050">
+        <dex dex="/Users/Pragya/Documents/6675-AIC/emotisense-workspace/app/build/intermediates/pre-dexed/debug/httpclientandroidlib-b8c5770035e4ee410be1575054ff9b86a3effc95.jar" />
+    </item>
+    <item
+        jar="/Users/Pragya/Documents/6675-AIC/emotisense-workspace/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/Pragya/Documents/6675-AIC/emotisense-workspace/app/build/intermediates/pre-dexed/debug/classes-74760e5efbec5b068ed6374b30244ce58cc27547.jar" />
+    </item>
+    <item
+        jar="/Users/Pragya/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient-android/4.3.5/82edcaec6c7b4599eaeaaf11167ceea41db42f33/httpclient-android-4.3.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="82edcaec6c7b4599eaeaaf11167ceea41db42f33">
+        <dex dex="/Users/Pragya/Documents/6675-AIC/emotisense-workspace/app/build/intermediates/pre-dexed/debug/httpclient-android-4.3.5-f2a944816a8ab23952922930be75abe8359f65e4.jar" />
+    </item>
+    <item
+        jar="/Users/Pragya/Documents/6675-AIC/emotisense-workspace/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.21.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0285ad8da812e92dda76ed5d0dcba05724c7911d">
+        <dex dex="/Users/Pragya/Documents/6675-AIC/emotisense-workspace/app/build/intermediates/pre-dexed/debug/classes-49beb43ab495c5e1c725f667f0fc9de6fbb2e546.jar" />
+    </item>
+    <item
+        jar="/Users/Pragya/Documents/6675-AIC/emotisense-final-gatech/emotisense-final/app/libs/httpclientandroidlib.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d884b9ed1234ce24ae00913167760836bf089050">
+        <dex dex="/Users/Pragya/Documents/6675-AIC/emotisense-final-gatech/emotisense-final/app/build/intermediates/pre-dexed/debug/httpclientandroidlib-df93f3a69c17b3f9128af164a0367d6ebace5047.jar" />
+    </item>
+    <item
+        jar="/Users/Pragya/Documents/6675-AIC/emotisense-final-gatech/emotisense-final/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/Pragya/Documents/6675-AIC/emotisense-final-gatech/emotisense-final/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-24ded2c54be51e348c6373b99670e2ca978745f6.jar" />
+    </item>
+    <item
+        jar="/Users/Pragya/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.3.6/cf8bacbf0d476c7f2221f861269365b66447f7ec/httpmime-4.3.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cf8bacbf0d476c7f2221f861269365b66447f7ec">
+        <dex dex="/Users/Pragya/Documents/6675-AIC/emotisense-workspace/app/build/intermediates/pre-dexed/debug/httpmime-4.3.6-99d5564caa8a330595c9ab44474d18cd86624130.jar" />
+    </item>
+    <item
+        jar="/Users/Pragya/Documents/6675-AIC/emotisense-workspace/app/libs/volley.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="/Users/Pragya/Documents/6675-AIC/emotisense-workspace/app/build/intermediates/pre-dexed/debug/volley-fc55e928e75b5aa032f2b5e3a5806ebc96d2f4e3.jar" />
+    </item>
+    <item
+        jar="/Users/Pragya/Documents/6675-AIC/emotisense-final-gatech/emotisense-final/app/libs/volley.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="/Users/Pragya/Documents/6675-AIC/emotisense-final-gatech/emotisense-final/app/build/intermediates/pre-dexed/debug/volley-7fe2573998009fd8172d2db2904f52dbde48c1ee.jar" />
+    </item>
+    <item
+        jar="/Users/Pragya/Documents/6675-AIC/emotisense-final-gatech/emotisense-final/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.21.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0285ad8da812e92dda76ed5d0dcba05724c7911d">
+        <dex dex="/Users/Pragya/Documents/6675-AIC/emotisense-final-gatech/emotisense-final/app/build/intermediates/pre-dexed/debug/classes-9369f1ffbc5909b09c0cd959d6fb4efadedb29b7.jar" />
+    </item>
+    <item
+        jar="/Users/Pragya/Documents/6675-AIC/emotisense-workspace/app/build/intermediates/exploded-aar/com.jjoe64/graphview/4.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ae24ad61a573cd1faf8261f5ec6d8f0cb58ddaad">
+        <dex dex="/Users/Pragya/Documents/6675-AIC/emotisense-workspace/app/build/intermediates/pre-dexed/debug/classes-2a619ee9f76942f16290955af820b3afaa22f56c.jar" />
+    </item>
+    <item
+        jar="/Users/Pragya/Documents/6675-AIC/emotisense-final-gatech/emotisense-final/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/Pragya/Documents/6675-AIC/emotisense-final-gatech/emotisense-final/app/build/intermediates/pre-dexed/debug/classes-2bde54ad870b59e60ae7c2a9bf3a1ece5ad45987.jar" />
+    </item>
+
+</items>

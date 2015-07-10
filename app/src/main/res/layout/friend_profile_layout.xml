@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="10"
+    >
+
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/emotisenseTitle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="32sp"
+        android:gravity="center"
+        android:includeFontPadding="false"
+        android:textColor="@color/background_material_light"
+        android:background="@color/logo_color"
+        android:text="Emotisense"
+        android:typeface="serif"
+        android:textStyle="italic"
+        android:layout_weight="0.25"
+        />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal"
+        android:layout_weight="5.5">
+
+      <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/imageView2"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"/>
+    </LinearLayout>
+
+       <ListView xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/listView"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+           android:layout_weight="4"/>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_weight="0.25"
+        android:gravity="center"
+        android:layout_gravity="center"
+        >
+
+    <Button
+        android:id="@+id/button"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="Report Image"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:includeFontPadding="false"
+        />
+</LinearLayout>
+    </LinearLayout>
